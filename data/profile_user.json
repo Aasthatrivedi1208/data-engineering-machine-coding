@@ -1,0 +1,20 @@
+[
+  {
+    "user_id": "1234567890",
+    "age": 25,
+    "gender": "female",
+    "country": "USA"
+  },
+  {
+    "user_id": "2345678901",
+    "age": 30,
+    "gender": "male",
+    "country": "Canada"
+  },
+  {
+    "user_id": "3456789012",
+    "age": 22,
+    "gender": "female",
+    "country": "UK"
+  }
+]

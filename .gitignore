@@ -1,0 +1,17 @@
+# Spark metadata (keep generated output data files)
+_SUCCESS
+*.crc
+
+# Notebook and Python caches
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local environments and secrets
+.venv/
+venv/
+.env
+
+# macOS
+.DS_Store

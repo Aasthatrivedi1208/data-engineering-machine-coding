@@ -1,0 +1,34 @@
+[
+  {
+    "user_id": "1234567890",
+    "activity_type": "running",
+    "distance_km": 5.2,
+    "duration_min": 30,
+    "calories_burned": 400,
+    "start_time": "2023-06-01T07:00:00Z"
+  },
+  {
+    "user_id": "2345678901",
+    "activity_type": "cycling",
+    "distance_km": 15.0,
+    "duration_min": 45,
+    "calories_burned": 600,
+    "start_time": "2023-06-01T07:30:00Z"
+  },
+  {
+    "user_id": "3456789012",
+    "activity_type": "walking",
+    "distance_km": 3.0,
+    "duration_min": 25,
+    "calories_burned": 200,
+    "start_time": "2023-06-01T08:00:00Z"
+  },
+  {
+    "user_id": "1234567890",
+    "activity_type": "swimming",
+    "distance_km": 1.0,
+    "duration_min": 20,
+    "calories_burned": 300,
+    "start_time": "2023-06-01T08:00:00Z"
+  }
+]

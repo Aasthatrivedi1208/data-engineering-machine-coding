@@ -1,0 +1,3 @@
+{"activity_type":"running","country":"USA","weather":"sunny","total_distance_km":5.2,"average_speed_kmph":10.4}
+{"activity_type":"cycling","country":"Canada","weather":"rainy","total_distance_km":15.0,"average_speed_kmph":20.0}
+{"activity_type":"walking","country":"UK","weather":"snowy","total_distance_km":3.0,"average_speed_kmph":7.199999999999999}
